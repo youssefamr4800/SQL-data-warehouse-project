@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/scripts/gold/Query.sql" value="fb393cd6-fd25-4819-a637-e6f085b22800" />
     <file url="file://$PROJECT_DIR$/scripts/init_database.sql" value="fb393cd6-fd25-4819-a637-e6f085b22800" />
     <file url="file://$PROJECT_DIR$/scripts/silver/DDL_silver.sql" value="fb393cd6-fd25-4819-a637-e6f085b22800" />
-    <file url="file://$PROJECT_DIR$/scripts/silver/Query.sql" value="fb393cd6-fd25-4819-a637-e6f085b22800" />
-    <file url="file://$PROJECT_DIR$/scripts/silver/Query2.sql" value="fb393cd6-fd25-4819-a637-e6f085b22800" />
   </component>
 </project>
