@@ -1,4 +1,3 @@
-
 -- 1. Database Exploration
 
 -- Explore all objects in the database
